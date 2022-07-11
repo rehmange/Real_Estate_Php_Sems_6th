@@ -1,0 +1,26 @@
+estate.mywebcommunity.org
+-----------------------------------
+DataBase
+database user 4123443_realestate
+host fdb34.awardspace.net
+Database pass AwardSpace@12
+
+-----------------------------------
+
+FTP
+UserName: 4123443_abdul
+Password: AwardSpace@12
+
+
+-----------------------------------
+AwardSpace
+Email: abch4999@gmail.com
+Password: AwardSpace@12@
+
+
+admin Login:
+user:abdul
+pass:abdul123
+
+
+estate.mywebcommunity.org
